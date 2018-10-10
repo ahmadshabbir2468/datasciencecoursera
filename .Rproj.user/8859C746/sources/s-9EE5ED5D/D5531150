@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539211580509.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "77832583",
+    "id" : "D5531150",
+    "lastKnownWriteTime" : 1539211599,
+    "last_content_update" : 1539211599018,
+    "path" : "C:/Users/ahmad/Desktop/Rproject/loops.R",
+    "project_path" : "loops.R",
+    "properties" : {
+        "cursorPosition" : "2,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
